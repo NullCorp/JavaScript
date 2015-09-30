@@ -1,7 +1,8 @@
 /*
 	
 	Language: Português-BR
-
+	Author: Hanor Sátiro Cintra
+	
 	Resumo - 
 	Este exemplo abaixo é o algoritmo genético implementado. Os passos bases do algoritmo genético estão descritos no site: http://www.obitko.com/tutorials/genetic-algorithms/
 	Objetivo - 
